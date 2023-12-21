@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1703179095 source:c:\users\student\desktop\324aa\lab 12\laborator 12\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<algorithm>
+	<vector>
+
